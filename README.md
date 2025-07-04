@@ -43,6 +43,12 @@ A handful of products priced above £100 performed poorly — indicating a misma
 Use review-generation tactics (e.g., post-purchase emails) to boost credibility for newer listings  
 6. **Invest in Electronics & Home Goods:**
    Allocate ad spend and promo energy towards high-performing categories for better ROI.
+## Dashboard Snapshots
+images/Amazon Project Data Analysis Result.png
+images/Amazon Project Data Analysis Result 2.png
+images/Amazon Project Data Analysis Result 3.png
+images/Amazon Project Data Analysis Result 4.png
+images/Amazon Project Data Analysis Result 5.png
 ### Author
 **Ololade Ojobaro**
 Excel dashboard creator|Data storytelling enthusiast|Aspiring Data Analyst
